@@ -1,0 +1,12 @@
+node_modules/
+lib/
+dist/
+.DS_Store
+.env*
+env/*.user
+.localConfigs*
+appPackage/build/
+devTools/
+npm-debug.log*
+.yarn/*
+*.tgz

@@ -1,0 +1,15 @@
+node_modules
+npm-debug.log
+dist
+lib
+.git
+.gitignore
+Dockerfile
+.env*
+.env
+.env.*
+.vscode
+**/*.tsbuildinfo
+coverage
+appPackage/build
+**/.DS_Store
